@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cheasel",
+    "email": "cheasel@email.com",
+    "phone": "0812345678",
+    "age": 30
+  },
+  {
+    "name": "John",
+    "email": "John@email.com",
+    "phone": "0898765432",
+    "age": null
+  }
+]
